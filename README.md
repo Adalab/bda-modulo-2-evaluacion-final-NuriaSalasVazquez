@@ -8,21 +8,22 @@
 🛠️ **Tecnologías que estoy usando**
 
 - MySQL como motor de base de datos.
-- GitHub Classroom para gestionar el código.
+- GitHub para gestionar el código.
 
 ✅ **Requisitos previos**
 
-- 🔹 Clonar el repositorio desde GitHub Classroom.
+- 🔹 Clonar el repositorio desde GitHub.
 - 🔹 Tener MySQL instalado y funcionando.
 - 🔹 Importar la base de datos Sakila si aún no la tengo en mi entorno.
 
 🚀 **¿Cómo estoy trabajando en este proyecto?**
 
-1️⃣ Cloné el repositorio desde GitHub Classroom.
-2️⃣ Creé un archivo `.sql` en la carpeta del repositorio.
-3️⃣ Escribí y ejecuté las consultas para cada ejercicio.
-4️⃣ Probé cada consulta para asegurarme de que devuelve el resultado correcto.
-5️⃣ Subí mi archivo `.sql` al repositorio de GitHub. 📂
+1️⃣ Cloné el repositorio desde GitHub Classroom.  
+2️⃣ Creé un archivo `.sql` en la carpeta del repositorio.  
+3️⃣ Escribí y ejecuté las consultas para cada ejercicio.  
+4️⃣ Probé cada consulta para asegurarme de que devuelve el resultado correcto.  
+5️⃣ Subí mi archivo `.sql` al repositorio de GitHub. 📂  
+
 
 📋 **Mis consultas SQL**
 
@@ -59,11 +60,11 @@
 - ✔️ Actores que NO han actuado en "Horror".
 - ✔️ Películas de comedia con más de 180 min.
 
-📌 **Mi Diagrama EER**
+📌 **Diagrama Sakila EER**
 
 Para visualizar mejor la base de datos Sakila, agregué este Diagrama Entidad-Relación (EER):
 
-![Mi Diagrama EER](EER%20images.png)
+![ Diagrama Sakila EER](EER%20images.png)
 
 
 📤 **Entrega**
